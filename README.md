@@ -8,6 +8,8 @@ Une de mes meilleure pote m a appris a faire du crochet!!!(voici ma premiere oeu
 
 ![pouples en crochet](poulpecrochet.jpg)
 
+voici le materiel nescecaire:
+
 ![Materiel](materiel.jpg)
 
 ## EXPLICATIONS POULPE:
