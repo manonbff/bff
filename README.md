@@ -27,7 +27,7 @@ fair des tentacules,
 fair une chainette de 33 mailles,
 fair une maille serée dans chaques trois mailles,
 fair ca tout le tour.
-FERMER:
+##FERMER:
 Fair que des diminution tout le tour,
 fair un noeud et l enfoncer,
 FINI!!!
