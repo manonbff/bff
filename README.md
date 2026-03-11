@@ -28,7 +28,40 @@ fair une chainette de 33 mailles,
 fair une maille serée dans chaques trois mailles,
 fair ca tout le tour.
 
-FERMER:
+## FERMER:
 Fair que des diminution tout le tour,
-fair un noeud et l enfoncer,
-FINI!!!
+fair un noeud et l enfoncer.
+## fini!!!
+
+## petit test quelle "populaire" est tu?:
+
+A l ecole,tout le monde regarde Zoe:
+😀Tu es TRES jalouse.
+🤟Tu t en fiches.
+🐼Zoe c est toi!!!
+
+Tout le monde adore le pantalon de lea:
+😀Tu file t acheter le meme.
+🤟Toi tu ne l aime pas particulierement.
+🐼Toi aussis tout le monde te regarde,tu as le meme!!!
+
+Tu doit presenter un exposee devant tout le monde:
+😀Tu vas pouvoir montrer que tu fait mieux que cette peste de valentine!!!
+🤟Tu n aime pas etre devant tout le monde...
+🐼Cool tout le monde adore t ecouter!!!
+
+## Max de 😀:
+Tu n est pas assez "populaire" a ton gout,
+alors tu te donne beaucoup de mal pour etre "cool"
+mais qui a t il de geniale a etre populaire?
+pose toi la question...
+
+## Max de 🤟:
+Tu n est pas populaire 
+et tu ne fait rien pour l etre.
+c est ok si ca te plait.
+
+## Max de 🐼:
+Tu es TRES populaire.
+C cool mais fait attention a rester
+cool avec tes amies,c est important.
