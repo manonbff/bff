@@ -69,4 +69,5 @@ cool avec tes amies,c est important.
 ## Crochet oeuf de paque
 ![oeuf de paque](oeufpaque.jpg)
 
-
+## je kiffe les pinces fleur
+![Example de pince de fleur](pince.jpg)
