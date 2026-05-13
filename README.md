@@ -74,3 +74,19 @@ cool avec tes amies,c est important.
 J'adore les pinces fleur.
 Sa donne un style trop cool.
 Franchement je vous conseille grave d'en porter!!!
+
+## L'histoire de la danse.
+La danse classique trouve ses origines dans la renaissance italiene.
+c'est par contre au 17 eme siecle dans la coure de Louis XIV que la danse classique a reellement commencée.
+Des ecoles de danse ont alors ouvet,et des mouvements precis ont etes inventees.
+La danse classique est maintenant surtout pratiquee en Europe.
+
+Les ballets les plus connus sont:
+1 - Le Lac des Cygnes.
+2 - Roméo & Juliette.
+3 - Casse-Noisette. 
+4 - Giselle. 
+5 - Le Sacre du Printemps. 
+6 - La Belle au Bois Dormant. 
+7 - La Bayadère. 
+8 - Raymonda.
