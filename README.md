@@ -71,3 +71,6 @@ cool avec tes amies,c est important.
 
 ## je kiffe les pinces fleur
 ![Example de pince de fleur](pince.jpg)
+J'adore les pinces fleur.
+Sa donne un style trop cool.
+Franchement je vous conseille grave d'en porter!!!
