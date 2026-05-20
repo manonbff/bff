@@ -90,3 +90,13 @@ Les ballets les plus connus sont:
 6 - La Belle au Bois Dormant. 
 7 - La Bayadère. 
 8 - Raymonda.
+
+Il existe beaucoup de pas de danse classique
+il existe des pas d'etirements,comme:
+Le grand ecart,
+des exercices a la barre,comme:
+les pliés,
+l'arabesque,
+les battements,
+les retirées,
+
