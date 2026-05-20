@@ -75,7 +75,7 @@ J'adore les pinces fleur.
 Sa donne un style trop cool.
 Franchement je vous conseille grave d'en porter!!!
 
-## L'histoire de la danse.
+## L'histoire de la danse.(chapitre un)
 La danse classique trouve ses origines dans la renaissance italiene.
 c'est par contre au 17 eme siecle dans la coure de Louis XIV que la danse classique a reellement commencée.
 Des ecoles de danse ont alors ouvet,et des mouvements precis ont etes inventees.
@@ -99,4 +99,29 @@ les pliés,
 l'arabesque,
 les battements,
 les retirées,
+les coups de pieds,
+des relevees,
+il existe aussis des exercices sans barre:
+des sauts,
+et encore beaucoups d autres que je n ais pas marquee.
+
+a la danse classique,il y a deux tipes de chausons:
+1.les chausons demi pointe,
+qui sont comme une chausette avec une fine semelle,
+2.les chausons pointe,
+qui sont des chausons dure,avec du bois au bout qui permet de monter sur pointe comme le dit le nom"chaussons pointe."
+certaines personnes penssent que les chaussons pointe font mal(ce qui est le cas au debut)mais apres quelques mois les danseuses s'y habituent.
+## fin du chapitre un!!!
+(je continurais a vous parler de danse plus tard dans mon deuxiemme chapitre)
+
+
+
+
+
+
+
+
+
+
+
 
